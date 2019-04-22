@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013727556478",
+    "firebase_url": "https://justtap-55fc3.firebaseio.com",
+    "project_id": "justtap-55fc3",
+    "storage_bucket": "justtap-55fc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013727556478:android:0859c8aaa378753d",
+        "android_client_info": {
+          "package_name": "com.myapplicationdev.android.justtap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013727556478-abseft8ab90422utcio01fe4b3foiom8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapplicationdev.android.justtap",
+            "certificate_hash": "cb6d66cffb0c2064892c839592d8460db3776d18"
+          }
+        },
+        {
+          "client_id": "1013727556478-d0ghekm8md9hmvsif9msji8dtqfslorh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhi9ZG0gKYDgp1MKZ-6cWwpxo2Kd8yeR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013727556478-d0ghekm8md9hmvsif9msji8dtqfslorh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
